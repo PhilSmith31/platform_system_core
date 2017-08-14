@@ -17,6 +17,7 @@
 #include <log/log.h>
 #include <utils/Unicode.h>
 
+#include <limits.h>
 #include <stddef.h>
 #include <limits.h>
 
